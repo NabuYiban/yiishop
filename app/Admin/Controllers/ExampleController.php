@@ -12,6 +12,7 @@ use Encore\Admin\Show;
 class ExampleController extends Controller
 {
     use HasResourceActions;
+    //sui
 
     /**
      * Index interface.
